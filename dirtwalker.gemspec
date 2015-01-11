@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ryan T. Hosford"]
   spec.email         = ["tad.hosford@gmail.com"]
   spec.description   = %q{ Combines pay_dirt with skywalker to provide patterns for callable or runnable service objects }
-  spec.summary       = %q{ Write Callable or Runnable service objects }
-  spec.homepage      = "https://rubygems.org/gems/pay_dirt"
+  spec.summary       = %q{ Combines pay_dirt with skywalker to provide patterns for callable or runnable service objects. }
+  spec.homepage      = "https://rubygems.org/gems/dirtwalker"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
