@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-Inherit from Dirtwalker::Dirt [(README)](https://github.com/rthbound/pay_dirt/blob/master/README.md) or from [Dirtwalker::Walker](https://github.com/robyurkowski/skywalker/blob/master/README.md).
+Inherit from Dirtwalker::Dirt [(README)](https://github.com/rthbound/pay_dirt/blob/master/README.md) or from Dirtwalker::Walker [(README)](https://github.com/robyurkowski/skywalker/blob/master/README.md).
 
 ## Contributing
 
